@@ -1,0 +1,3 @@
+rootProject.name = "ElectronicSignApplication"
+include ':app'
+include ':electronicsignlibrary'
